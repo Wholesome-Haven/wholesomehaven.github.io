@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Wholesome Haven
-description: Bookmark this to keep an eye on my project updates!
+description: Home to the Wholesome Haven Project!
+header_pages:
+  - index.md
+  - team.md
+  - code.md
+  - report.md
+
