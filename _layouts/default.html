@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}" />
+</head>
+<body>
+  <header class="site-header">
+    {% assign home = site.pages | where: "path", "home.md" | first %}
+    {% if home == nil %}
+      {% assign home = site.pages | where: "path", "index.md" | first %}
+    {% endif %}
+    <div class="site-brand">
+      <a class="brand-title" href="{{ home.url | relative_url }}">{{ site.title }}</a>
+      <a class="brand-extra" href="https://calvin.edu/academics/school-stem/computer-science">Calvin CS Website</a>
+    </div>
+
+<nav class="site-nav" aria-label="Main navigation">
+  <ul>
+    {% for p in site.header_pages %}
+      {% assign navpage = site.pages | where: "path", p | first %}
+      {% if navpage %}
+        <li class="{% if page.url == navpage.url %}active{% endif %}">
+          <a href="{{ navpage.url | relative_url }}">{{ navpage.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+
+  </ul>
+</nav>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
+  </footer>
+</body>
+</html>
