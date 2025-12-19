@@ -6,13 +6,17 @@ title: Team
 # Team
 
 ## Landon Faber
-Senior Computer Science major at Calvin University with interests in Cybersecurity and Software Development
+
+Senior Computer Science major at Calvin University with interests in Cybersecurity and Software Development.
 
 ## Madi McNearney
-description.
+
+Senior Computer Science major with minors in Criminology and Social Work interested in digital forensics, investigative work, and the intersection of technology and criminal justice.
 
 ## Evelyn Bender
-description.
+
+Senior Computer Science Plus Psychology major interested in User Experience and Web Development.
 
 ## Musa Kwong
-description.
+
+Senior Computer Science major at Calvin University with interests in Application and Cloud Development.
