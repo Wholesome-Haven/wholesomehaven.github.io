@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Wholesome Haven
 description: Home to the Wholesome Haven Project!
-timezone: America/Chicago
 header_pages:
   - index.md
   - team.md
