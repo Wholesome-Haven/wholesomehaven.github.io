@@ -9,6 +9,10 @@ The current version of our project proposal can be found below:
 
 - **[Project Report (PDF)](assets/pdfs/Project_Report.pdf)**
 
+The final version of our project report can be found below:
+
+- **[Project Report (PDF)](assets/pdfs/Project_Report.pdf)**
+
 # Status Report Materials
 
 The Presentation from our Midterm Report
