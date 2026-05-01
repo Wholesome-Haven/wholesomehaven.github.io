@@ -15,3 +15,7 @@ The Presentation from our Midterm Report
 
 - **[Presentation (PDF)](assets/pdfs/Presentation.pdf)**
 
+The Final Presentation for our project
+
+- **[FInal Presentation (PDF)](assets/pdfs/finalPresentation.pdf)**
+
