@@ -11,7 +11,7 @@ The midterm version of our project proposal:
 
 The final version of our project report:
 
-- **[Project Report (PDF)](assets/pdfs/Project_Report.pdf)**
+- **[Final Project Report (PDF)](assets/pdfs/Final_Paper.pdf)**
 
 # Status Report Materials
 
@@ -27,7 +27,7 @@ The Final Presentation for our project:
 
 Evelyn's Research Paper that Wholesome Haven is based upon:
 
-- **[Evelyn's Thesis (PDF)](assets/pdfs/finalPresentation.pdf)**
+- **[Evelyn's Thesis (PDF)](assets/pdfs/Thesis.pdf)**
 
 
 
